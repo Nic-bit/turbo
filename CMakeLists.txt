@@ -20,9 +20,9 @@
 cmake_minimum_required(VERSION 3.15)
 
 # 设置 C++ 编译器目录
-set(CMAKE_CXX_COMPILER "/opt/compiler/gcc-12/bin/g++")
-# 设置 C 编译器目录
-set(CMAKE_C_COMPILER "/opt/compiler/gcc-12/bin/gcc")
+# set(CMAKE_CXX_COMPILER "/opt/compiler/gcc-12/bin/g++")
+# # 设置 C 编译器目录
+# set(CMAKE_C_COMPILER "/opt/compiler/gcc-12/bin/gcc")
 
 project(turbo)
 
